@@ -1,0 +1,4 @@
+problem_02 {
+    # BNB_profile (Line 32);
+        // While in tablet emulator, screen goes out of bonds while there is a SingleChildScrollView(), #using Landscape mode
+}
